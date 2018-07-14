@@ -1,5 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thearnica/454797-code-and-magick.svg)](https://greenkeeper.io/)
+
 * Студент: [Марина Корзунова](https://up.htmlacademy.ru/javascript/11/user/454797).
 
 ---
